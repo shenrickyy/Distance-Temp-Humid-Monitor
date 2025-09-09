@@ -27,4 +27,4 @@ A simple Arduino-based project that uses a DHT11 to read temperature and humidit
 - When I PWM V0, random glyphs were displayed after around 5 executions of the code. Use the potentiometer.
 
 ## Project Demo
-(Watch demo here) https://drive.google.com/file/d/1PlOVQE4ipggqzAKc5MOGvDN7qpUxvdvV/view?usp=drive_link
+(Watch demo here) https://youtu.be/TsM-1XBtkFg
