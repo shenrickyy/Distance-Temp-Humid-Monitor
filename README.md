@@ -1,5 +1,5 @@
 # Distance-Temp-Humid-Monitor
-A simple Arduino based project that uses a DHT11 to read temperature and humidity and an ultrasonic sensor for distance. The results are then displayed on a 16x2 LCD and its contrast is controlled with a potentiometer. An active buzzer will alert the user when distance is too close to the sensor or when the temperature exceeds a certain limit.
+A simple Arduino-based project that uses a DHT11 to read temperature and humidity and an ultrasonic sensor for distance. The results are then displayed on a 16x2 LCD, and its contrast is controlled with a potentiometer. An active buzzer will alert the user when distance is too close to the sensor or when the temperature exceeds a certain limit.
 
 ## Hardware (Elegoo UNO R3 Super Starter Kit)
 - Arduino UNO R3
@@ -25,3 +25,6 @@ A simple Arduino based project that uses a DHT11 to read temperature and humidit
 
 ## Notes
 - When I PWM V0, random glyphs were displayed after around 5 executions of the code. Use the potentiometer.
+
+## Project Demo
+(Watch demo here) https://drive.google.com/file/d/1PlOVQE4ipggqzAKc5MOGvDN7qpUxvdvV/view?usp=drive_link
